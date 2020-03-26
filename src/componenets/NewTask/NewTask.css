@@ -1,0 +1,6 @@
+.NewTask {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 70%
+}

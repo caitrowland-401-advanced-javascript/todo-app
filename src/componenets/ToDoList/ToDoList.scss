@@ -1,0 +1,15 @@
+.toDoList{
+    display: flex;
+    margin: auto;
+    /* // width: 50%; */
+    flex-wrap: wrap;
+    justify-content: center;
+
+    font-family: 'Permanent Marker', cursive;
+    color: black;
+    padding: 20px;
+    height: 50%;
+    overflow: scroll;
+}
+
+.completed {text-decoration: line-through red}

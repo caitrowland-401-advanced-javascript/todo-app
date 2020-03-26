@@ -1,0 +1,8 @@
+p {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    padding: 20px;
+}

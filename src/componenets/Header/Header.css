@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    margin-top: 5%;
+    font-family: 'Permanent Marker', cursive;
+    color: red;
+    font-size: 40px;
+}
